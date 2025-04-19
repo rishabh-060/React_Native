@@ -1,9 +1,9 @@
 # 📱 React Native Internship Task - 3W Business Pvt. Ltd.
 
-This is my submission for the **Mobile Developer Internship Task** assigned by **3W Business Pvt. Ltd.** The app is built using **React Native CLI** (without Expo Go) and follows all the provided requirements:
+This is my submission for the **Mobile Developer Internship Task** assigned by **3W Business Pvt. Ltd.** The app is built using **React Native CLI** (with Expo Go) and follows all the provided requirements:
 
 > ✅ React Native CLI  
-> ✅ No Expo Go  
+> ✅ Expo Go  
 > ✅ No UI Kit used  
 > ✅ Two Screens – Task List & Task Detail  
 > ✅ Custom UI  
