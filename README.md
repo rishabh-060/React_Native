@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# 📱 React Native Internship Task - 3W Business Pvt. Ltd.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is my submission for the **Mobile Developer Internship Task** assigned by **3W Business Pvt. Ltd.** The app is built using **React Native CLI** (without Expo Go) and follows all the provided requirements:
 
-## Get started
+> ✅ React Native CLI  
+> ✅ No Expo Go  
+> ✅ No UI Kit used  
+> ✅ Two Screens – Task List & Task Detail  
+> ✅ Custom UI  
+> ✅ Static data
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+- 📝 **Task List Screen** – Beautiful collapsible cards showcasing task information.
+- 📄 **Task Detail Screen** – Full task details, status badge, and animated submit button.
+- 📱 **Responsive & Clean UI** – Built with focus on UX and layout aesthetics.
+- 🔄 **React Navigation** – Easy transition between screens.
+- 📦 **Static Data** – Preloaded dummy tasks for demo.
+- ⚙️ **Haptic Feedback & Animations** – Subtle motion enhancements without external animation libraries.
+- 📁 Organized project structure with reusable components.
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📸 Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Task List Screen | Task Detail Screen |
+|------------------|--------------------|
+| ![Task List](assets/screenshots/task-list.png) | ![Task Detail](assets/screenshots/task-detail.png) |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🧱 Built With
 
-When you're ready, run:
+- ⚛️ **React Native CLI**
+- 🧠 **React Hooks**
+- 📂 **Modular Component Architecture**
+- 📡 **React Navigation**
+- 🎨 **Custom Styling (StyleSheet API)**
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📁 Folder Structure
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
